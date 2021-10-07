@@ -1,0 +1,21 @@
+.txt-center{
+    text-align:center;
+}
+.mrgn-top-25{
+    margin-top: 25px;
+}
+.mrgn-bottom-30{
+    margin-bottom: 30px;
+}
+.pdd-top-100{
+    padding-top:100px;
+}
+.width-300{
+    width:300px;
+}
+.fnt-size-28{
+    font-size: 1.75rem;
+}
+.fnt-size-24{
+    font-size: 1.5rem;
+}
